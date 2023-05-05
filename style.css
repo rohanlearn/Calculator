@@ -149,5 +149,13 @@ z-index: -2;
     padding-bottom: 1em;
     
    }
+   .grid-container{
+    max-width: min(80%,500px);
+
+   }
+   .grid-container-2{
+    max-width: min(80%,500px);
+
+   }
     
 }
